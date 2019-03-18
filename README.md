@@ -1,5 +1,4 @@
 # PCSHSL23
-My name is Kantharakorn Sudkangvol
-nickname is Almond
-I'm 16 years old
-I miss you Ayutthaya.
+My name is Ratchanok Warapho.
+You can call me See.
+I am 16 years old.And I love 9x9
