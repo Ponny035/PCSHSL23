@@ -1,0 +1,4 @@
+<small id="coinyep-reverse1">1 THB = 0.04249 CAD</small>
+<small id="coinyep-reverse2">1 CAD = 23.536734450474 THB</small>
+<small id="coinyep-reverse1">1 THB = 0.04249 CAD</small>
+<small id="coinyep-reverse2">1 CAD = 23.536734450474 THB</small>
